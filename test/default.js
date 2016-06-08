@@ -20,7 +20,7 @@
         it('should be able to list movies', function(done) {
             this.timeout(10000);
 
-            omdb({t:'chappie'}).list().then((movie) => { log(movie);
+            omdb({t:'chappie'}).list().then((movie) => {
                 assert(movie);
                 done();
             }).catch(done);

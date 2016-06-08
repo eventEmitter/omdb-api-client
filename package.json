@@ -1,7 +1,7 @@
 {
       "name"                        : "omdb-api-client"
     , "description"                 : "a simple omdb api client"
-    , "version"                     : "2.0.0"
+    , "version"                     : "2.0.1"
     , "homepage"                    : "https://github.com/eventEmitter/omdb-api-client"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "license"                     : "MIT"
