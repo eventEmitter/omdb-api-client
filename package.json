@@ -16,13 +16,13 @@
         "url"                       : "https://github.com/eventEmitter/omdb-api-client/issues"
     }
     , "dependencies": {      
-          "ee-event-emitter"        : "0.3.x"
+          "ee-event-emitter"        : "~1.0.1"
         , "ee-types"                : "2.x"
-        , "ee-log"                  : "0.3.x"
-        , "restful-api-client"      : "0.3.x"
+        , "ee-log"                  : "~2.0.2"
+        , "restful-api-client"      : "~0.4.0"
     }
     , "devDependencies": {
-          "mocha"                   : "2.x"
+          "mocha"                   : "^3.3.0"
     }
     , "optionalDependencies": {}
     , "keywords"                    : ["omdb", "api"]

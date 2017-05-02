@@ -1,5 +1,7 @@
 # omdb-api-client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/omdb-api-client.svg)](https://greenkeeper.io/)
+
 a simple omdb api client
 
 ## installation
